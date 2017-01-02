@@ -1,0 +1,3 @@
+- Install gnuplot, compile cyclictest, use a realtime kernel
+- Choose a shell script for the number of proccesors you have
+- If you want to have fewer samples, change this in the shell script
